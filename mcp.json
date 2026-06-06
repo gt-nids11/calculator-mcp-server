@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "calculator": {
+      "command": "C:/Users/Asus/OneDrive/Desktop/mcp/venv/Scripts/python.exe",
+      "args": ["-u", "C:/Users/Asus/OneDrive/Desktop/mcp/server.py"]
+    }
+  }
+}
